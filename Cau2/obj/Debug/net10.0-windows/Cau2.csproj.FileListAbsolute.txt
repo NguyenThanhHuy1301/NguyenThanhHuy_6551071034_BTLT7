@@ -1,0 +1,111 @@
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.AssemblyReference.cache
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.Form1.resources
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.GenerateResource.cache
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfoInputs.cache
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfo.cs
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.CoreCompileInputs.cache
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.sourcelink.json
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Cau2.exe
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Cau2.deps.json
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Cau2.runtimeconfig.json
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Cau2.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Cau2.pdb
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\System.Runtime.Caching.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\bin\Debug\net10.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.Up2Date
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\refint\Cau2.dll
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.pdb
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\Cau2.genruntimeconfig.cache
+D:\Thiết kế wed\nam3\WebBanSachMoi\Cau2\obj\Debug\net10.0-windows\ref\Cau2.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Cau2.exe
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Cau2.deps.json
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Cau2.runtimeconfig.json
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Cau2.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Cau2.pdb
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\System.Runtime.Caching.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\bin\Debug\net10.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.Form1.resources
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfoInputs.cache
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfo.cs
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.Up2Date
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\refint\Cau2.dll
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.pdb
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\Cau2.genruntimeconfig.cache
+D:\LapTrinhTrucQuan\BTLT8\Cau2\obj\Debug\net10.0-windows\ref\Cau2.dll
